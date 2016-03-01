@@ -25,7 +25,6 @@ print("Chance for 2 liberal 1 facist\t" .. twoliberal*100 .. " %")
 
 --[[
 result is a binary tree as follows:
-                  0
         f                   l
    ff        fl       lf        ll
 fff  ffl  flf  fll lff  lfl  llf  lll
