@@ -16,7 +16,7 @@ end
 
 node(1,1,liberal,facist)
 twofacist = result[9].chance + result[10].chance + result[12].chance
-twoliberal = result[13].chance + result[14].chance
+twoliberal = result[11].chance + result[13].chance + result[14].chance 
 
 print("Chance for 3 facist\t\t" .. result[8].chance*100 .. " %")
 print("Chance for 3 liberal\t\t" .. result[15].chance*100 .. " %")
